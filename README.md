@@ -49,9 +49,9 @@ See the section about [deployment](https://facebook.github.io/create-react-app/d
 -GitHub
 -Netlify
 
-* [Dropwizard](http://www.dropwizard.io/1.0.2/docs/) - El framework web usado
-* [Maven](https://maven.apache.org/) - Manejador de dependencias
-* [ROME](https://rometools.github.io/rome/) - Usado para generar RSS
+* [React](https://es.reactjs.org/) - El framework web usado
+* [GitHub](https://github.com) - Repositorio
+* [Netlify](hhttps://www.netlify.com) - Donde esta desployado el proyecto
 
 ---
 ⌨️ Por [brian-dg](https://github.com/brian-dg) 😊
